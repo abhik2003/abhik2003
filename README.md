@@ -2,7 +2,7 @@
 <h3 align="center">Passionate about web development and competitive programming.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=abhik2003&label=Profile%20views&color=0e75b6&style=flat" alt="abhik2003" /> </p>
-<p allign="center">
+<p align="center">
 - 📫 How to reach me **abhik03mj@gmail.com**
 </p>
 <h3 align="center">Connect with me:</h3>
